@@ -1,0 +1,8 @@
+---
+source: tests/suite/pattern_snapshots.rs
+expression: compressed
+---
+[compiled 1 crate]
+cargo test: 15 passed, 0 failed
+  ran: auth::tests::login_ok, auth::tests::login_fail, auth::tests::refresh_token, db::tests::connect, db::tests::migrate ...+10 more
+(2.34s)
