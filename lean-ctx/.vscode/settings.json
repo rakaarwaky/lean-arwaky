@@ -1,5 +1,0 @@
-{
-  "git.ignoreLimitWarning": true,
-  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
-  "npm.autoDetect": "off"
-}
